@@ -1,0 +1,7 @@
+[package]
+name = "nex-protocols-rs"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+nex-rs = { git = "https://github.com/Link-3DS/nex-rs", version = "1.0.0" }
